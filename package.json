@@ -1,5 +1,5 @@
 {
-  "name": "webcamjs",
+  "name": "pitchly-webcamjs",
   "version": "1.0.0",
   "description": "Webcam interface, written entirely in ECMAScript 6 using HTML5's getUserMedia and MediaDevices APIs. No external dependencies.",
   "main": "webcam.js",
