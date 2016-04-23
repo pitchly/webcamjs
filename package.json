@@ -1,0 +1,28 @@
+{
+  "name": "webcamjs",
+  "version": "1.0.0",
+  "description": "Webcam interface, written entirely in ECMAScript 6 using HTML5's getUserMedia and MediaDevices APIs. No external dependencies.",
+  "main": "webcam.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pitchly/webcamjs.git"
+  },
+  "keywords": [
+    "webcam",
+    "getUserMedia",
+    "MediaDevices",
+    "MediaCapture",
+    "ECMAScript6",
+    "Promise",
+    "JavaScript"
+  ],
+  "author": "Blake Barrett, Pitchly",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/pitchly/webcamjs/issues"
+  },
+  "homepage": "https://github.com/pitchly/webcamjs#readme"
+}
