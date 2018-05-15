@@ -24,5 +24,8 @@
   "bugs": {
     "url": "https://github.com/pitchly/webcamjs/issues"
   },
-  "homepage": "https://github.com/pitchly/webcamjs#readme"
+  "homepage": "https://github.com/pitchly/webcamjs#readme",
+  "dependencies": {
+    "npm": "^6.0.1"
+  }
 }
